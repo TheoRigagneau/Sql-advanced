@@ -1,0 +1,6 @@
+-- Pour la part A avec le suivi des GPS toutes les 3 secondes de 30 000 véhicules
+-- le nosql est le mieux car il tourne en continu et en plus il répond vite
+-- Ensuite pour la b, avec  lafacturation bancaire des trajets
+-- le postgreesql car , il vérifie quetout est bien enregistré partout avant de valider
+-- Et pour la c, Neo4j car il permet de faire des noeuds, 
+-- des relations plus facilement vu que c'est un graphe
